@@ -56,19 +56,5 @@
 
  ![trophy](https://github-profile-trophy.vercel.app/?username=SANTOSHZORE123&row=1&no-bg=true)
 
- 
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/santosh-zore-1a7a85241/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-
-</p>
- 
-## ❤ Views and Followers
-<a href="https://github.com/SANTOSHZORE123?tab=followers"><img src="https://img.shields.io/github/followers/SANTOSHZORE123?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/SANTOSHZORE123)  
 
 
