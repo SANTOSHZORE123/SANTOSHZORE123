@@ -55,6 +55,10 @@
 <a href="https://github.com/SANTOSHZORE123/github-readme-activity-graph"><img alt="Santosh Zore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SANTOSHZORE123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
  ![trophy](https://github-profile-trophy.vercel.app/?username=SANTOSHZORE123&row=1&no-bg=true)
+ 
+Watch my contribution graph being eaten by a Snake! 🐍
+
+![Watch my contribution graph being eaten by a Snake!](https://res.cloudinary.com/darshanscloud/image/upload/v1659541436/rxmmjyct0hsvjuucyho1.svg)
 
 
 
