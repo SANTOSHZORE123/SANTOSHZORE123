@@ -44,20 +44,7 @@
   <a href="https://github.com/SANTOSHZORE123/github-readme-stats"><img alt="Santosh zore's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTOSHZORE123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  </p>
   <br/>
- 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/SANTOSHZORE123/github-readme-activity-graph"><img alt="Santosh Zore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SANTOSHZORE123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
- ![trophy](https://github-profile-trophy.vercel.app/?username=SANTOSHZORE123&row=1&no-bg=true)
- 
-Watch my contribution graph being eaten by a Snake! 🐍
-
-![Watch my contribution graph being eaten by a Snake!](https://res.cloudinary.com/darshanscloud/image/upload/v1659541436/rxmmjyct0hsvjuucyho1.svg)
 
 
 
