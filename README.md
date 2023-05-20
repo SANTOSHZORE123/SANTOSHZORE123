@@ -1,8 +1,4 @@
 
-<a href="#" >
- <p align="center">
- <img width="50%" height="auto" src="https://res.cloudinary.com/darshanscloud/image/upload/v1637320650/nay3aduln51whxrgzgtv.png" /></a>
-</p>
 
 <h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10%" height="auto"> I'm Santosh
 <h3 align="center">I'm a Full Stack Developer and 3rd year Computer Engineering Student.</h3>
@@ -74,8 +70,5 @@
  
 ## ❤ Views and Followers
 <a href="https://github.com/SANTOSHZORE123?tab=followers"><img src="https://img.shields.io/github/followers/SANTOSHZORE123?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/SANTOSHZORE123)  
- 
- Watch my contribution graph being eaten by a Snake! 🐍
 
-![Watch my contribution graph being eaten by a Snake!](https://res.cloudinary.com/darshanscloud/image/upload/v1659541436/rxmmjyct0hsvjuucyho1.svg)
 
