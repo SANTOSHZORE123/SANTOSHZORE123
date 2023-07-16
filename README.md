@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10%" height="auto"> I'm Santosh
-<h3 align="center">I'm a Full Stack Developer and 3rd year Computer Engineering Student.</h3>
+<h3 align="center">I'm a Full Stack Developer and 4th year Computer Engineering Student.</h3>
 
  ## 🙋‍♂️ About Me
 
